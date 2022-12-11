@@ -69,8 +69,7 @@ a {
 }
 
 p {
-	display: grid;
-  line-height: 1.2em;
+ line-height: 1.2em; 
 }
 
 hr {
@@ -117,7 +116,6 @@ h1{
 
   
   /* font-size: 2em; */
-}
 
 h2 {
   font-family: var(--bodyFont);
@@ -423,10 +421,12 @@ canvas {
 }
 
 footer {
-  display: block;
+  color: #fff;
+  display: flex;
   grid-area: footer;
   margin-bottom: 32px;
   text-align: center;
+  min-height: 100%;
 }
 
 /* ----- RESPONSIVE MEDIA QUERIES ----- */

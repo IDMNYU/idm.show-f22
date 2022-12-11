@@ -5,7 +5,7 @@ let projectCollection = {
       "Email Address": "",
       "Full Name": "Carmen Vargas",
       "Net ID": "cmv9563",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title": "Miami Memory Machine",
       "What medium is the work (website, game, vr, etc)":
         "Physical Computing (Arduino)",
@@ -21,8 +21,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "The Miami Memory Machine was inspired by my experiences of adolescence in Miami. Growing up, I felt like I didn’t see those stories reflected on TV or on film, but I resonated with memories of friends and family who were also from the city. I gathered their stories alongside my own, and converted them into video “memories.” The Machine is activated by a hot drink–like a cup of coffee–connecting with the microcontroller, and every sip you take triggers another memory. In this way, you too can reminisce over a life in Miami. ",
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1FdH387Qvz8BuXIcjjzLR3P7mQLT_39C2, https://drive.google.com/open?id=12omRKmAxDrXBi2fsLMmTEOQeySZlBR6O, https://drive.google.com/open?id=1dQQt_Q_qZeXZw88_PcAFXuUmHUkkPS5_, https://drive.google.com/open?id=1Epf2-ARNcAW5JRgWaQEmuTugU4nHfDiW",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
       "Theme and keywords": "Memory, Arduino, Physical Computing, Community",
       "Profile photo.":
         "https://drive.google.com/open?id=1LRqktYkV23mAITE7scFFRn-ID6H_Yt-X",
@@ -36,7 +35,7 @@ let projectCollection = {
       "Email Address": "mfl339@nyu.edu",
       "Full Name": "Michelle Lee",
       "Net ID": "mfl339",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title":
         "Embark: Revamping Digital Onboarding to Address Imposter Syndrome",
       "What medium is the work (website, game, vr, etc)": "Website",
@@ -63,7 +62,7 @@ let projectCollection = {
       "Email Address": "aad629@nyu.edu",
       "Full Name": "Annie Alexandra Dedas",
       "Net ID": "aad629",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Untitled two",
       "What medium is the work (website, game, vr, etc)": "Video",
       "Short project description (one sentence - 500 characters)":
@@ -74,7 +73,7 @@ let projectCollection = {
       "Link to your personal portfolio": "https://anniededas.cargo.site",
       "Project link": "https://anniededas.cargo.site/senior-project-blog",
       "Long Description of your work (4-6 sentences).":
-        "I made this project to combine different mediums I enjoy working in and show my proficiency in them by focusing on small parts of the piece inspired by the people and places around me. This piece of video art was made in aftereffects, but has recorded elements of analog video synthesis and 3d models I made in Blender. The video can serve as one large piece of art or be broken up into it's basic elements, like the variety of 3d models seen in the video and my work in real-time to be shown as portfolio pieces. I made this project for me, as an exploration of the different kinds of media I've learned about in IDM and what I can do with them.\n",
+        "I made this project to combine different mediums I enjoy working in and show my proficiency in them by focusing on small parts of the piece inspired by the people and places around me. This piece of video art was made in aftereffects, but has recorded elements of analog video synthesis and 3d models I made in Blender. The video can serve as one large piece of art or be broken up into it's basic elements, like the variety of 3d models seen in the video and my work in real-time to be shown as portfolio pieces. I made this project for me, as an exploration of the different kinds of media I've learned about in IDM and what I can do with them.",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Theme and keywords": "3d design, motion graphics, video art",
@@ -88,7 +87,7 @@ let projectCollection = {
       "Email Address": "mas10006@nyu.edu",
       "Full Name": "Miguel Sanabria",
       "Net ID": "mas10006",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title":
         "Augmented Reality Book Design: How can designers create AR storybook experiences so that they are usable, useful and accessible",
       "What medium is the work (website, game, vr, etc)": "Website",
@@ -117,7 +116,7 @@ let projectCollection = {
       "Email Address": "mz1945@nyu.edu",
       "Full Name": "Mingcheng (McCoy) Zhu",
       "Net ID": "mz1945",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Rate My Classes",
       "What medium is the work (website, game, vr, etc)":
         "Cross-Platform App (iOS/watchOS/macOS/Web)",
@@ -144,7 +143,7 @@ let projectCollection = {
       "Email Address": "ls5118@nyu.edu",
       "Full Name": "Laiba Sarwar",
       "Net ID": "ls5118",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Ruk",
       "What medium is the work (website, game, vr, etc)": "app",
       "Short project description (one sentence - 500 characters)":
@@ -171,7 +170,7 @@ let projectCollection = {
       "Email Address": "ql1019@nyu.edu",
       "Full Name": "Martin Liang",
       "Net ID": "ql1019",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Tandon market",
       "What medium is the work (website, game, vr, etc)": "App",
       "Short project description (one sentence - 500 characters)":
@@ -184,8 +183,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "designed for Tandon students.An app for Tandon students to buy & sell used or new products including clothing, textbooks, electronics, etc. A marketplace for students to negotiate prices and meet up in person for trade. Started from user research and interviews from a variety of different students.",
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1pcNPVu9dI_Tk7qHq0Obh7NtZDEUx4eBq, https://drive.google.com/open?id=15ltv5ar4ju8gQ0X7ZRfigmgYjfDo4-JT",
+      "Supplementary Images": "1.jpg, 2.jpg",
       "Theme and keywords": "Tandon communities",
       "Profile photo.":
         "https://drive.google.com/open?id=1mr4bGs8cpXbNz_Hxxz-A75FP7DmZQhJc",
@@ -198,7 +196,7 @@ let projectCollection = {
       "Email Address": "ap4397@nyu.edu",
       "Full Name": "Aaditya Patel",
       "Net ID": "ap4397",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Unreal Engine Game",
       "What medium is the work (website, game, vr, etc)":
         "Screen Recording of Gameplay",
@@ -225,7 +223,7 @@ let projectCollection = {
       "Email Address": "jy3524@nyu.edu",
       "Full Name": "Jeongin Yoon",
       "Net ID": "jy3524",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Stress Relief VR Experience",
       "What medium is the work (website, game, vr, etc)": "VR",
       "Short project description (one sentence - 500 characters)":
@@ -251,7 +249,7 @@ let projectCollection = {
       "Email Address": "rw2412@nyu.edu",
       "Full Name": "Ruoxi Wang",
       "Net ID": "rw2412",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title":
         "Overpass: a platform that helps Chinese parents and teenagers get professional help on family conflicts",
       "What medium is the work (website, game, vr, etc)": "App, UI/UX Design",
@@ -280,7 +278,7 @@ let projectCollection = {
       "Email Address": "jl10630@nyu.edu",
       "Full Name": "Josephine Lee",
       "Net ID": "jl10630",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Subway",
       "What medium is the work (website, game, vr, etc)": " 3D Animation",
       "Short project description (one sentence - 500 characters)":
@@ -304,8 +302,8 @@ let projectCollection = {
       Timestamp: "12/7/2022 22:01:08",
       "Email Address": "kc3985@nyu.edu",
       "Full Name": "Kaiwen Chen & Yunru Pan",
-      "Net ID": "kc3985; yp1234",
-      "What year are you? ": "Senior (Senior Project)",
+      "Net ID": "kc3985",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Perception",
       "What medium is the work (website, game, vr, etc)": "VR",
       "Short project description (one sentence - 500 characters)":
@@ -319,8 +317,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         'The COVID pandemic is influencing people from all over the world, and it is becoming a part of human history. As Chinese students studying abroad, we care about the COVID control that people back in my hometown are experiencing, and we believe that everyone’s memory and perspective are worth recording. That is how the idea of creating "Perception" comes in. In Perception, the audience will experience a mixed-up world that incorporates elements that are currently happening in China and New York City. We invite our audience to ponder on the problems and the sarcastic aspects of our world. This is not only an immersive VR experience but also an open platform that enables the audience to experience the COVID memories from our perspectives while adding their own perspectives through the project website.',
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1xQuEyFUrEtEFeb1Ls7xLz2HRomI8fxEt, https://drive.google.com/open?id=1Sn6LWTrDz6sQg5RhOu4ipB9oyDQhrPPW, https://drive.google.com/open?id=1PQwfrVWsZXr2M00iG7n7MxkbO9QJN0Gu, https://drive.google.com/open?id=1Y4yRWox-RfKdw2trBQNMFDtZSqJqW9gH, https://drive.google.com/open?id=1eGsNbqg69mastlEi7bsAbQQ7t0ZWyI-Y",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
       "Theme and keywords":
         "VR, Immersive Experience, COVID, Cultural Integration, Realism",
       "Profile photo.":
@@ -335,7 +332,7 @@ let projectCollection = {
       "Email Address": "jb6400@nyu.edu",
       "Full Name": "Jessica Belov",
       "Net ID": "jb6400",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "FaePhantasia",
       "What medium is the work (website, game, vr, etc)": "animation",
       "Short project description (one sentence - 500 characters)":
@@ -361,7 +358,7 @@ let projectCollection = {
       "Email Address": "sh5907@nyu.edu",
       "Full Name": "Shuai Hu",
       "Net ID": "sh5907",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title": "Cyborg Overture",
       "What medium is the work (website, game, vr, etc)": "Video",
       "Short project description (one sentence - 500 characters)":
@@ -387,7 +384,7 @@ let projectCollection = {
       "Email Address": "mg5406@nyu.edu",
       "Full Name": "Marina Roos Guthmann",
       "Net ID": "mg5406",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title":
         "Oh! But you are so young... Stories and shenanigans about being young and having cancer.",
       "What medium is the work (website, game, vr, etc)": "Website",
@@ -412,8 +409,8 @@ let projectCollection = {
       Timestamp: "12/8/2022 17:03:21",
       "Email Address": "lz2807@nyu.edu",
       "Full Name": "Liqian Zhang, Josh Chen, Sigrid Lohre, Phoebe Yin",
-      "Net ID": "lz2807; sl8159; qc588; bky214",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "Net ID": "lz2807",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title": "Not your Traditional Therapy! - VR Rage room",
       "What medium is the work (website, game, vr, etc)": "VR, game",
       "Short project description (one sentence - 500 characters)":
@@ -428,8 +425,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "Not your traditional therapy! is a unconventional approach to rage rooms in virtual reality. VR not only provides an immersive experience but can also achieve the “impossible”. We attempt to bring the concept of rage rooms in VR, aiming to explore and experiment with different kinds of sensory feedback and stimulation. ",
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1IrwjpFtmlBT5ibV1NJcUIVQai4XdzGRC, https://drive.google.com/open?id=1Mu8I7nOrZKHPTnv9lQXyFVQp10geNc1n",
+      "Supplementary Images": "1.jpg, 2.jpg",
       "Theme and keywords": "Therapy, Rage Room, VR, Game, Experience",
       "Profile photo.":
         "https://drive.google.com/open?id=1TVoe28rhYy8ssr-Lh8BvZ8MoAobVV5TF",
@@ -443,7 +439,7 @@ let projectCollection = {
       "Email Address": "gpc281@nyu.edu",
       "Full Name": "Giovanni Carucci",
       "Net ID": "gpc281",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "League Client UI Update",
       "What medium is the work (website, game, vr, etc)": "Website ",
       "Short project description (one sentence - 500 characters)":
@@ -469,7 +465,7 @@ let projectCollection = {
       "Email Address": "ksb8376@nyu.edu",
       "Full Name": "Kendra Barber",
       "Net ID": "ksb8376",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title": "Traveling While Black",
       "What medium is the work (website, game, vr, etc)": "Website Prototype",
       "Short project description (one sentence - 500 characters)":
@@ -483,8 +479,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "There have been hundreds of years of racism and social injustice in the United States. Unbeknownst to a significant amount of people, the implications of that racial history are still prevalent in today’s society, specifically in relation to how Black people experience travel. Bias, racism, and inequities continue to create toxic tourist experiences for Black people, both domestically and abroad. This application aims to provide a solution to this problem by providing information on safe destinations for Black people to travel within the United States, easing their worry and allowing them to make more informed decisions when they travel. \n",
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1xtP20YgQy1TFLhHMr8GmYKExgEQoVU8h, https://drive.google.com/open?id=12QGHmTlot02k27jRgUI-b7SRAVfBJrzj",
+      "Supplementary Images": "1.jpg, 2.jpg",
       "Theme and keywords":
         "UX Design, Traveling, Progressive Web App, Safety, UX Research",
       "Profile photo.":
@@ -498,7 +493,7 @@ let projectCollection = {
       "Email Address": "jl7826@nyu.edu",
       "Full Name": "Jei Lee",
       "Net ID": "jl7826",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Are you looking at me?",
       "What medium is the work (website, game, vr, etc)":
         "3D Character Modeling",
@@ -524,7 +519,7 @@ let projectCollection = {
       "Email Address": "jym282@nyu.edu",
       "Full Name": "JiYoung Moon",
       "Net ID": "jym282",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Anatomy of the Internet",
       "What medium is the work (website, game, vr, etc)": "Print",
       "Short project description (one sentence - 500 characters)":
@@ -537,8 +532,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "This project was created as a way to increase awareness of our consumption of the web. Although we continue to spend more and more time online, most of us are unaware of the components that bring us our daily internet access. As a digital product designer, I also want to explore design for print and communicating through a static piece of media. The piece draws conceptually from Anatomy of AI, by Kate Crawford and Vladan Joler.",
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1BdVc3z1PfkQgdzYk6BMIX5H1C8EWzLro",
+      "Supplementary Images": "1.jpg",
       "Theme and keywords":
         "Print, Data Visualization, Illustration, Internet Consumption",
       "Profile photo.": "",
@@ -551,7 +545,7 @@ let projectCollection = {
       "Email Address": "sc5555@nyu.edu",
       "Full Name": "Sean Choi",
       "Net ID": "sc5555",
-      "What year are you? ": "Senior (Senior Project)",
+      "What year are you?": "Senior (Senior Project)",
       "Project title": "Don’t Blame Yourself",
       "What medium is the work (website, game, vr, etc)": "2D animated short",
       "Short project description (one sentence - 500 characters)":
@@ -564,8 +558,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "Sierra is a character I designed over the summer and I've always wanted to create a backstory for her. I decided that this class was the perfect opportunity to flesh that out for her so I decided to work on an animated short as I specialize in illustrative work and animation. I've always design characters as fragments of my existence, so in a way, I am divulging a lot of my personal experiences through Sierra. I've battled through depression and anxiety so I thought that I could share a part of my story using Sierra as a vessel. Through sharing my experience, I hope to help people understand that they are not alone in their struggles and to somehow alleviate some of the pain that they are feeling through a cathartic 2d animated short.",
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1GsAUNj82oUUaop3nTEqyuoQwcnthuaTx, https://drive.google.com/open?id=1DMvI9HvYh93nJKER340qP__JiuyRqtUX, https://drive.google.com/open?id=1aCf7B5yCUK4BV1fIwCYOtB2d2PjGMn3V",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
       "Theme and keywords":
         "Depression, Anxiety, Mental Health, Childhood Trauma, Healing, Therapy, Catharsis, Self Forgiveness",
       "Profile photo.":
@@ -579,8 +572,8 @@ let projectCollection = {
       Timestamp: "12/9/2022 12:32:53",
       "Email Address": "fv2036@nyu.edu",
       "Full Name": "Falguni Vyas",
-      "Net ID": "fv2036@nyu.edu",
-      "What year are you? ": "Final Year Grad (Thesis Project)",
+      "Net ID": "fv2036",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "Project title":
         "A Multiplayer Learning Game Design to Improve Online Learning Experiences",
       "What medium is the work (website, game, vr, etc)": "Game design",
