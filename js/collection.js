@@ -27,7 +27,7 @@ let projectCollection = {
         "https://drive.google.com/open?id=1LRqktYkV23mAITE7scFFRn-ID6H_Yt-X",
       Instagram: "",
       "Link to any video content": "",
-      Twitter: "https://twitter.com/varsvisualizes",
+      Twitter: "varsvisualizes",
     },
 
     {
@@ -53,9 +53,9 @@ let projectCollection = {
       "Theme and keywords":
         "Digital onboarding, imposter syndrome, UX design, big tech",
       "Profile photo.": "",
-      Instagram: "https://instagram.com/mfaithleee",
-      "Link to any video content": "n/a",
-      Twitter: "n/a",
+      Instagram: "mfaithleee",
+      "Link to any video content": "",
+      Twitter: "",
     },
     {
       Timestamp: "12/7/2022 15:32:07",
@@ -161,7 +161,7 @@ let projectCollection = {
       "Theme and keywords": "Figma, Music, Social, Friends",
       "Profile photo.":
         "https://drive.google.com/open?id=1MUvUfr_KeKlJcpbKVmwfLrc12Ot1tWNR",
-      Instagram: "https://www.instagram.com/laiba.511/",
+      Instagram: "laiba.511/",
       "Link to any video content": "",
       Twitter: "",
     },
@@ -214,9 +214,9 @@ let projectCollection = {
       "Theme and keywords": "Video Game, Futuristic, Seoul, Combat",
       "Profile photo.":
         "https://drive.google.com/open?id=1mIZ4i6QxgxXXjlYeHY0dXrYYz9nPJ5hC",
-      Instagram: "https://www.instagram.com/aaditv/",
+      Instagram: "aaditv/",
       "Link to any video content": "N/A",
-      Twitter: "https://twitter.com/freeaadi",
+      Twitter: "freeaadi",
     },
     {
       Timestamp: "12/7/2022 21:06:59",
@@ -240,7 +240,7 @@ let projectCollection = {
       "Theme and keywords": "VR, Stress Relief, Sensory",
       "Profile photo.":
         "https://drive.google.com/open?id=1wdb7KVQ98zeQ1w8mOG3Vr2Rf2AtwmE1G",
-      Instagram: "https://www.instagram.com/masahitoyoon/",
+      Instagram: "masahitoyoon/",
       "Link to any video content": "",
       Twitter: "",
     },
@@ -269,7 +269,7 @@ let projectCollection = {
         "UI/UX Design, Product Design, Counseling, Chinese, Parent-Teen, Conflict Resolution, Online Counseling, Mental Health",
       "Profile photo.":
         "https://drive.google.com/open?id=1BNdeZ9BxfAM94Ouv4mZ3LjkHqqoTHjm0",
-      Instagram: "https://www.instagram.com/rosie_wrx/",
+      Instagram: "rosie_wrx/",
       "Link to any video content": "",
       Twitter: "",
     },
@@ -294,7 +294,7 @@ let projectCollection = {
       "Supplementary Images": "",
       "Theme and keywords": "3D, Animation, Imagination, Weird",
       "Profile photo.": "",
-      Instagram: "https://www.instagram.com/josephinekmlee/",
+      Instagram: "josephinekmlee/",
       "Link to any video content": "",
       Twitter: "",
     },
@@ -321,7 +321,7 @@ let projectCollection = {
         "VR, Immersive Experience, COVID, Cultural Integration, Realism",
       "Profile photo.":
         "https://drive.google.com/open?id=1Kk_ujdthXiaxEn_zCKwoyfujNZOmEB9a",
-      Instagram: "https://www.instagram.com/____kaiii_/",
+      Instagram: "____kaiii_/",
       "Link to any video content": "",
       Twitter: "",
     },
@@ -348,7 +348,7 @@ let projectCollection = {
         "VR, Immersive Experience, COVID, Cultural Integration, Realism",
       "Profile photo.":
         "https://drive.google.com/open?id=1Kk_ujdthXiaxEn_zCKwoyfujNZOmEB9a",
-      Instagram: "https://www.instagram.com/estherrru/",
+      Instagram: "estherrru/",
       "Link to any video content (Vimeo / YouTube)": "",
       Twitter: "",
     },
@@ -374,7 +374,7 @@ let projectCollection = {
       "Theme and keywords": "blender3d, multimedia, characterdesign",
       "Profile photo.":
         "https://drive.google.com/open?id=1G65vrVJpb1sUCEB8n-cJpYxH7DyWifLf",
-      Instagram: "https://www.instagram.com/phanta_pm/",
+      Instagram: "phanta_pm/",
       "Link to any video content": "",
       Twitter: "",
     },
@@ -400,7 +400,7 @@ let projectCollection = {
       "Theme and keywords": "Cyborg, Digital Art, CG, Short Film",
       "Profile photo.":
         "https://drive.google.com/open?id=15dId_91IPdQsMD8X4-nEtxgnppZ_cRkY",
-      Instagram: "https://www.instagram.com/shaunhu_/",
+      Instagram: "shaunhu_/",
       "Link to any video content": "",
       Twitter: "",
     },
@@ -671,7 +671,7 @@ let projectCollection = {
         "Depression, Anxiety, Mental Health, Childhood Trauma, Healing, Therapy, Catharsis, Self Forgiveness",
       "Profile photo.":
         "https://drive.google.com/open?id=1hmOd1GxbE9lKuWBr31cCo5rQS6PshMNz",
-      Instagram: "https://www.instagram.com/mtjchoi/",
+      Instagram: "mtjchoi/",
       "Link to any video content": "https://vimeo.com/779488794",
       Twitter: "",
     },
@@ -700,7 +700,7 @@ let projectCollection = {
         "Learning Design, Online Learning, Game Design, Collaborative Learning, Educational Communication Design",
       "Profile photo.":
         "https://drive.google.com/open?id=1e0OXWMLJwdqZCKPtP_c4Bq_bIKN2uyP-",
-      Instagram: "https://www.instagram.com/_falgunivyas_/",
+      Instagram: "_falgunivyas_/",
       "Link to any video content":
         "https://www.youtube.com/channel/UC5F35UcMh56hvtOIknuqvcQ",
       Twitter: "",
