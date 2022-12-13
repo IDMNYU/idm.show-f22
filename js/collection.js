@@ -26,7 +26,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1LRqktYkV23mAITE7scFFRn-ID6H_Yt-X",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "https://twitter.com/varsvisualizes",
     },
 
@@ -54,7 +54,7 @@ let projectCollection = {
         "Digital onboarding, imposter syndrome, UX design, big tech",
       "Profile photo.": "",
       Instagram: "https://instagram.com/mfaithleee",
-      "Link to any video content (Vimeo / YouTube)\n": "n/a",
+      "Link to any video content": "n/a",
       Twitter: "n/a",
     },
     {
@@ -79,7 +79,7 @@ let projectCollection = {
       "Theme and keywords": "3d design, motion graphics, video art",
       "Profile photo.": "",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -108,7 +108,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=10AkzRLFjU7bBWHN07YeO3r834p_NAZOh",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -135,7 +135,7 @@ let projectCollection = {
         "App Development, Software Engineering, React Native, SwiftUI, MongoDB, TypeScript, Education, College, Scheduling, Review, Productivity",
       "Profile photo.": "",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -162,7 +162,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1MUvUfr_KeKlJcpbKVmwfLrc12Ot1tWNR",
       Instagram: "https://www.instagram.com/laiba.511/",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -188,7 +188,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1mr4bGs8cpXbNz_Hxxz-A75FP7DmZQhJc",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -215,7 +215,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1mIZ4i6QxgxXXjlYeHY0dXrYYz9nPJ5hC",
       Instagram: "https://www.instagram.com/aaditv/",
-      "Link to any video content (Vimeo / YouTube)\n": "N/A",
+      "Link to any video content": "N/A",
       Twitter: "https://twitter.com/freeaadi",
     },
     {
@@ -241,7 +241,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1wdb7KVQ98zeQ1w8mOG3Vr2Rf2AtwmE1G",
       Instagram: "https://www.instagram.com/masahitoyoon/",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -270,7 +270,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1BNdeZ9BxfAM94Ouv4mZ3LjkHqqoTHjm0",
       Instagram: "https://www.instagram.com/rosie_wrx/",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -295,7 +295,7 @@ let projectCollection = {
       "Theme and keywords": "3D, Animation, Imagination, Weird",
       "Profile photo.": "",
       Instagram: "https://www.instagram.com/josephinekmlee/",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -311,8 +311,7 @@ let projectCollection = {
       "": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "",
-      "Link to your personal portfolio":
-        "Kaiwen Chen (https://www.kaiwenchenwork.com/) & Esther Pan (https://esther-site.webflow.io/) ",
+      "Link to your personal portfolio": "https://www.kaiwenchenwork.com/",
       "Project link": "https://kc3985.wixsite.com/perception",
       "Long Description of your work (4-6 sentences).":
         'The COVID pandemic is influencing people from all over the world, and it is becoming a part of human history. As Chinese students studying abroad, we care about the COVID control that people back in my hometown are experiencing, and we believe that everyone’s memory and perspective are worth recording. That is how the idea of creating "Perception" comes in. In Perception, the audience will experience a mixed-up world that incorporates elements that are currently happening in China and New York City. We invite our audience to ponder on the problems and the sarcastic aspects of our world. This is not only an immersive VR experience but also an open platform that enables the audience to experience the COVID memories from our perspectives while adding their own perspectives through the project website.',
@@ -322,9 +321,35 @@ let projectCollection = {
         "VR, Immersive Experience, COVID, Cultural Integration, Realism",
       "Profile photo.":
         "https://drive.google.com/open?id=1Kk_ujdthXiaxEn_zCKwoyfujNZOmEB9a",
-      Instagram:
-        "Kaiwen Chen (https://www.instagram.com/____kaiii_/) & Yunru Pan (https://www.instagram.com/estherrru/) ",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      Instagram: "https://www.instagram.com/____kaiii_/",
+      "Link to any video content": "",
+      Twitter: "",
+    },
+    {
+      Timestamp: "12/7/2022 22:01:08",
+      "Email Address": "yp1234@nyu.edu",
+      "Full Name": "Yunru Pan & Kaiwen Chen",
+      "Net ID": "yp1234",
+      "What year are you?": "Senior (Senior Project)",
+      "Project title": "Perception",
+      "What medium is the work (website, game, vr, etc)": "VR",
+      "Short project description (one sentence - 500 characters)":
+        "In perception, you are going to experience a mixed-up world in virtual reality that reveals and records how elements from heavy-COVID-controlled China and Post-COVID USA collide and intertwine. We invite you to ponder on the problems and the sarcastic aspects of our world.",
+      "": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Link to your personal portfolio": "https://esther-site.webflow.io/ ",
+      "Project link": "https://kc3985.wixsite.com/perception",
+      "Long Description of your work (4-6 sentences).":
+        'The COVID pandemic is influencing people from all over the world, and it is becoming a part of human history. As Chinese students studying abroad, we care about the COVID control that people back in my hometown are experiencing, and we believe that everyone’s memory and perspective are worth recording. That is how the idea of creating "Perception" comes in. In Perception, the audience will experience a mixed-up world that incorporates elements that are currently happening in China and New York City. We invite our audience to ponder on the problems and the sarcastic aspects of our world. This is not only an immersive VR experience but also an open platform that enables the audience to experience the COVID memories from our perspectives while adding their own perspectives through the project website.',
+      "Main Image": "main.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
+      "Theme and keywords":
+        "VR, Immersive Experience, COVID, Cultural Integration, Realism",
+      "Profile photo.":
+        "https://drive.google.com/open?id=1Kk_ujdthXiaxEn_zCKwoyfujNZOmEB9a",
+      Instagram: "https://www.instagram.com/estherrru/",
+      "Link to any video content (Vimeo / YouTube)": "",
       Twitter: "",
     },
     {
@@ -350,7 +375,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1G65vrVJpb1sUCEB8n-cJpYxH7DyWifLf",
       Instagram: "https://www.instagram.com/phanta_pm/",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -376,7 +401,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=15dId_91IPdQsMD8X4-nEtxgnppZ_cRkY",
       Instagram: "https://www.instagram.com/shaunhu_/",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -402,7 +427,7 @@ let projectCollection = {
       "Theme and keywords": "Three.js, 3D, Narratives, Website, Storytelling",
       "Profile photo.": "",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -418,8 +443,7 @@ let projectCollection = {
       "": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "",
-      "Link to your personal portfolio":
-        "https://phoebeyin.com/; https://www.sigridlohre.com/; lzhang20179.wixsite.com/website; https://joshchen916.wixsite.com/home",
+      "Link to your personal portfolio": "lzhang20179.wixsite.com/website",
       "Project link":
         "https://drive.google.com/drive/folders/1YBzAr3ge7ELE-R2mpV0zTXkAVjz58f0k?usp=sharing",
       "Long Description of your work (4-6 sentences).":
@@ -430,7 +454,91 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1TVoe28rhYy8ssr-Lh8BvZ8MoAobVV5TF",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n":
+      "Link to any video content":
+        "https://drive.google.com/drive/folders/1R8vOWVsVpGV7PggIh5KXYsSOhwkRmvkS?usp=sharing",
+      Twitter: "",
+    },
+    {
+      Timestamp: "12/8/2022 17:03:21",
+      "Email Address": "sl8159@nyu.edu",
+      "Full Name": " Sigrid Lohre, Liqian Zhang, Josh Chen, Phoebe Yin",
+      "Net ID": "sl8159",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "Project title": "Not your Traditional Therapy! - VR Rage room",
+      "What medium is the work (website, game, vr, etc)": "VR, game",
+      "Short project description (one sentence - 500 characters)":
+        "Not Your Traditional Therapy is the final project for the Intro to VR course with Professor Gannis by Josh, Liqian, Phoebe, and Sigrid. It's a revolutionary rage room experience in virtual reality. We elevate the experience by introducing elements that could never be implemented in base reality, such as breaking the rule of physics.",
+      "": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Link to your personal portfolio": "https://www.sigridlohre.com/",
+      "Project link":
+        "https://drive.google.com/drive/folders/1YBzAr3ge7ELE-R2mpV0zTXkAVjz58f0k?usp=sharing",
+      "Long Description of your work (4-6 sentences).":
+        "Not your traditional therapy! is a unconventional approach to rage rooms in virtual reality. VR not only provides an immersive experience but can also achieve the “impossible”. We attempt to bring the concept of rage rooms in VR, aiming to explore and experiment with different kinds of sensory feedback and stimulation. ",
+      "Main Image": "main.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg",
+      "Theme and keywords": "Therapy, Rage Room, VR, Game, Experience",
+      "Profile photo.":
+        "https://drive.google.com/open?id=1TVoe28rhYy8ssr-Lh8BvZ8MoAobVV5TF",
+      Instagram: "",
+      "Link to any video content":
+        "https://drive.google.com/drive/folders/1R8vOWVsVpGV7PggIh5KXYsSOhwkRmvkS?usp=sharing",
+      Twitter: "",
+    },
+    {
+      Timestamp: "12/8/2022 17:03:21",
+      "Email Address": "qc588@nyu.edu",
+      "Full Name": "Josh Chen, Sigrid Lohre, Liqian Zhang, Phoebe Yin",
+      "Net ID": "qc588",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "Project title": "Not your Traditional Therapy! - VR Rage room",
+      "What medium is the work (website, game, vr, etc)": "VR, game",
+      "Short project description (one sentence - 500 characters)":
+        "Not Your Traditional Therapy is the final project for the Intro to VR course with Professor Gannis by Josh, Liqian, Phoebe, and Sigrid. It's a revolutionary rage room experience in virtual reality. We elevate the experience by introducing elements that could never be implemented in base reality, such as breaking the rule of physics.",
+      "": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Link to your personal portfolio": "https://joshchen916.wixsite.com/home",
+      "Project link":
+        "https://drive.google.com/drive/folders/1YBzAr3ge7ELE-R2mpV0zTXkAVjz58f0k?usp=sharing",
+      "Long Description of your work (4-6 sentences).":
+        "Not your traditional therapy! is a unconventional approach to rage rooms in virtual reality. VR not only provides an immersive experience but can also achieve the “impossible”. We attempt to bring the concept of rage rooms in VR, aiming to explore and experiment with different kinds of sensory feedback and stimulation. ",
+      "Main Image": "main.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg",
+      "Theme and keywords": "Therapy, Rage Room, VR, Game, Experience",
+      "Profile photo.":
+        "https://drive.google.com/open?id=1TVoe28rhYy8ssr-Lh8BvZ8MoAobVV5TF",
+      Instagram: "",
+      "Link to any video content":
+        "https://drive.google.com/drive/folders/1R8vOWVsVpGV7PggIh5KXYsSOhwkRmvkS?usp=sharing",
+      Twitter: "",
+    },
+    {
+      Timestamp: "12/8/2022 17:03:21",
+      "Email Address": "bky214@nyu.edu",
+      "Full Name": "Phoebe Yin, Liqian Zhang, Josh Chen, Sigrid Lohre",
+      "Net ID": "bky214",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "Project title": "Not your Traditional Therapy! - VR Rage room",
+      "What medium is the work (website, game, vr, etc)": "VR, game",
+      "Short project description (one sentence - 500 characters)":
+        "Not Your Traditional Therapy is the final project for the Intro to VR course with Professor Gannis by Josh, Liqian, Phoebe, and Sigrid. It's a revolutionary rage room experience in virtual reality. We elevate the experience by introducing elements that could never be implemented in base reality, such as breaking the rule of physics.",
+      "": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Link to your personal portfolio": "https://phoebeyin.com/",
+      "Project link":
+        "https://drive.google.com/drive/folders/1YBzAr3ge7ELE-R2mpV0zTXkAVjz58f0k?usp=sharing",
+      "Long Description of your work (4-6 sentences).":
+        "Not your traditional therapy! is a unconventional approach to rage rooms in virtual reality. VR not only provides an immersive experience but can also achieve the “impossible”. We attempt to bring the concept of rage rooms in VR, aiming to explore and experiment with different kinds of sensory feedback and stimulation. ",
+      "Main Image": "main.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg",
+      "Theme and keywords": "Therapy, Rage Room, VR, Game, Experience",
+      "Profile photo.":
+        "https://drive.google.com/open?id=1TVoe28rhYy8ssr-Lh8BvZ8MoAobVV5TF",
+      Instagram: "",
+      "Link to any video content":
         "https://drive.google.com/drive/folders/1R8vOWVsVpGV7PggIh5KXYsSOhwkRmvkS?usp=sharing",
       Twitter: "",
     },
@@ -457,7 +565,7 @@ let projectCollection = {
         "UX/UI, Redesign, Video Games, FigmaUX/UI, Figma, User Research, Redesign, Video Games   ",
       "Profile photo.": "",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -485,7 +593,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1smpialoXm1HVSDtev6o110wk_OEDp-pZ",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -511,7 +619,7 @@ let projectCollection = {
       "Theme and keywords": "3d, character design, anime",
       "Profile photo.": "",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -537,7 +645,7 @@ let projectCollection = {
         "Print, Data Visualization, Illustration, Internet Consumption",
       "Profile photo.": "",
       Instagram: "",
-      "Link to any video content (Vimeo / YouTube)\n": "",
+      "Link to any video content": "",
       Twitter: "",
     },
     {
@@ -564,8 +672,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1hmOd1GxbE9lKuWBr31cCo5rQS6PshMNz",
       Instagram: "https://www.instagram.com/mtjchoi/",
-      "Link to any video content (Vimeo / YouTube)\n":
-        "https://vimeo.com/779488794",
+      "Link to any video content": "https://vimeo.com/779488794",
       Twitter: "",
     },
     {
@@ -594,7 +701,7 @@ let projectCollection = {
       "Profile photo.":
         "https://drive.google.com/open?id=1e0OXWMLJwdqZCKPtP_c4Bq_bIKN2uyP-",
       Instagram: "https://www.instagram.com/_falgunivyas_/",
-      "Link to any video content (Vimeo / YouTube)\n":
+      "Link to any video content":
         "https://www.youtube.com/channel/UC5F35UcMh56hvtOIknuqvcQ",
       Twitter: "",
     },
