@@ -1,24 +1,5 @@
-@import url('https://fonts.cdnfonts.com/css/gotham');
-
-@font-face {
-  font-family: 'Gotham';
-  font-weight: 140;
-}
-
-@font-face {
-  font-family: 'Gotham Black';
-  font-weight: 140;
-}
-
-@font-face {
-  font-family: 'Gotham';
-  font-weight: 120;
-}
-
-@font-face {
-  font-family: 'Gotham Book';
-  font-weight: 400;
-}
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300;400;600;700&family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,700&display=swap');
 
 
 :root {
@@ -30,14 +11,14 @@
   /* --foregroundColor: #3c4f96; */
   /* --hoverColor: #57068c; */
   --hoverColor: #111111;
-  --headerFont: 'Gotham Black';
+  --headerFont: 'Gotham Book';
 
   --headerWeight: 140;
- /* --header3Weight: 140; */
+  /* --header3Weight: 140; */
   /* --h3Transform; */
   /* --bodyFont: 'Overpass Mono', monospace; */
-  --bodyFont: 'Gotham';
-  --bodyItFont: 'Gotham Black';
+  --bodyFont: 'Beatrice-Regular';
+  --bodyItFont: 'Beatrice-RegularIt';
   --h2Size: 2.5em;
   --h3Size: 1.25em;
   --radiusLv1: 0;
@@ -68,9 +49,6 @@ a {
   /* color: var(--gradientColorB); */
 }
 
-p {
- line-height: 1.2em; 
-}
 
 hr {
   border: 0;
@@ -80,7 +58,7 @@ hr {
 body {
   display: flex;
   justify-content: center;
-  background: linear-gradient(180deg, var(--gradientColorA) 0%, var(--gradientColorB) 100%);
+  background: linear-gradient(180deg, var(--gradientColorA) 0%, var(--gradientColorB) 45%);
 }
 
 #mainContainer {
@@ -110,12 +88,12 @@ header {
   /* Fix for header graphic– temporary */
 }
 
-h1{
-  font-family: var(--headerFont);
+h1 {
+  font-family: var(--bodyFont);
 }
 
-  
-  /* font-size: 2em; */
+
+/* font-size: 2em; */
 
 h2 {
   font-family: var(--bodyFont);
@@ -125,9 +103,9 @@ h2 {
 }
 
 h3 {
-   font-family: var(--bodyItFont);
-  font-size: large;
-  font-weight: var(--header3Weight)
+  font-family: var(--bodyFont);
+  /* font-size: large; */
+  /* font-weight: var(--header3Weight) */
 }
 
 #headerTitle {
@@ -149,13 +127,6 @@ h3 {
 header a {
   display: flex;
   width: 100%;
-}
-
-header svg {
-  /* width: 100%; */
-  /* height: 500px; */
-  /* max-height: 40vh; */
-  /* object-fit: cover; */
 }
 
 path.cls-2:not(:first-of-type) {
@@ -185,7 +156,7 @@ header>h1>a:visited {
 }
 
 a:hover {
-  color: #fff;
+  color: #f0f0f0;
   background-color: var(--hoverColor);
 }
 
@@ -218,7 +189,7 @@ nav>p:first-child {
   flex-direction: column;
   /* -webkit-box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.93); */
   /* box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.93); */
-  background-color: rgba(255, 250, 255, 0.4);
+  background-color: rgba(255, 250, 255, 0.3);
   /* -webkit-backdrop-filter: blur(4px);
   -o-backdrop-filter: blur(4px);
   -moz-backdrop-filter: blur(4px);
@@ -295,7 +266,7 @@ nav>p:first-child {
 }
 
 .projectPreview .shortDescription {
-  /* font-style: italic; */
+  font-style: italic;
 }
 
 .projectMainImage,
@@ -316,7 +287,7 @@ nav>p:first-child {
 }
 
 .projectDescription {
-  /* margin-bottom: 64px; */
+  margin-bottom: 64px;
 }
 
 .projectDescription p {
@@ -378,9 +349,9 @@ nav>p:first-child {
 
 .additionalMediaCollection a:hover img,
 .projectPreview:hover img {
-  /* border: 3px solid var(--gradientColorA);
+  border: 3px solid var(--gradientColorA);
   padding: -3px;
-  margin-bottom: -3px; */
+  margin-bottom: -3px;
 }
 
 .additionalMediaCollection img {
@@ -421,8 +392,7 @@ canvas {
 }
 
 footer {
-  color: #fff;
-  display: flex;
+  display: block;
   grid-area: footer;
   margin-bottom: 32px;
   text-align: center;
@@ -459,7 +429,7 @@ footer {
   }
 
   nav>p:first-child {
-   display: none;
+    display: none;
   }
 
   nav>p {
@@ -467,7 +437,7 @@ footer {
   }
 
   p {
-  display: grid;
+    display: grid;
     /* font-size: 0.8em; */
     /* font-weight: 500; */
   }
