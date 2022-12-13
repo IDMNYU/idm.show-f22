@@ -16,9 +16,9 @@
   --headerWeight: 140;
   /* --header3Weight: 140; */
   /* --h3Transform; */
-  /* --bodyFont: 'Overpass Mono', monospace; */
-  --bodyFont: 'Beatrice-Regular';
-  --bodyItFont: 'Beatrice-RegularIt';
+  --bodyFont: 'Overpass Mono', monospace;
+  /* --bodyFont: 'Beatrice-Regular';
+  --bodyItFont: 'Beatrice-RegularIt'; */
   --h2Size: 2.5em;
   --h3Size: 1.25em;
   --radiusLv1: 0;
