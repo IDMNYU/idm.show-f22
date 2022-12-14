@@ -219,7 +219,7 @@ function produceDirectoryOfTag(requestedTag) {
 
   /* Loop through every project and see if it has a matching Tag */
   for (var i = 0; i < projectCollection["projects"].length; i++) {
-    let splitTags = projectCollection["projects"][i][pHashtagsKey].split(", ");
+    let splitTags = projectCollection["projects"][i][pKeywordsKey].split(", ");
     let splitKeywords =
       projectCollection["projects"][i][pKeywordsKey].split(", ");
 
@@ -535,7 +535,7 @@ function produceCompleteTagDirectory() {
 
   for (var i = 0; i < projectCollection["projects"].length; i++) {
     console.log("Collating project #" + i + "...");
-    let splitTags = projectCollection["projects"][i][pHashtagsKey].split(", ");
+    let splitTags = projectCollection["projects"][i][pKeywordsKey].split(", ");
     let splitKeywords =
       projectCollection["projects"][i][pKeywordsKey].split(", ");
 
