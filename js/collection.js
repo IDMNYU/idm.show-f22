@@ -443,7 +443,8 @@ let projectCollection = {
       "": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "",
-      "Link to your personal portfolio": "lzhang20179.wixsite.com/website",
+      "Link to your personal portfolio":
+        "https://www.lzhang20179.wixsite.com/website",
       "Project link":
         "https://drive.google.com/drive/folders/1YBzAr3ge7ELE-R2mpV0zTXkAVjz58f0k?usp=sharing",
       "Long Description of your work (4-6 sentences).":
@@ -721,7 +722,8 @@ let projectCollection = {
         "",
       "Link to your personal portfolio":
         "https://jennifernovicki.wixsite.com/jennifernovicki",
-      "Project link": "https://xd.adobe.com/view/d215ee9a-c95e-4759-86c8-3a181be215c7-8746/?fullscreen",
+      "Project link":
+        "https://xd.adobe.com/view/d215ee9a-c95e-4759-86c8-3a181be215c7-8746/?fullscreen",
       "Long Description of your work (4-6 sentences).":
         "I designed a professional development course for NYU's online learning management software called NYU iLearn, which is only available to students, staff, and faculty. The course focuses on mental health, but is designed to educate faculty & staff so that they can be better equipped to help students with their mental health.",
       "Main Image": "main.jpg",
@@ -736,5 +738,4 @@ let projectCollection = {
       Twitter: "",
     },
   ],
-
 };
