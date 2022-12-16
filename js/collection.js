@@ -705,5 +705,36 @@ let projectCollection = {
         "https://www.youtube.com/channel/UC5F35UcMh56hvtOIknuqvcQ",
       Twitter: "",
     },
+    {
+      Timestamp: "12/9/2022 12:32:53",
+      "Email Address": "jn67@nyu.edu",
+      "Full Name": "Jennifer Novicki",
+      "Net ID": "jn67",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "Project title":
+        "Mental Health Awareness: Professional Development for NYU Faculty & Staff on Identifying and Addressing Mental Health Concerns of NYU Students",
+      "What medium is the work (website, game, vr, etc)": "Website",
+      "Short project description (one sentence - 500 characters)":
+        "Online professional development learning module",
+      "": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Link to your personal portfolio":
+        "https://jennifernovicki.wixsite.com/jennifernovicki",
+      "Project link": "https://xd.adobe.com/view/d215ee9a-c95e-4759-86c8-3a181be215c7-8746/?fullscreen",
+      "Long Description of your work (4-6 sentences).":
+        "I designed a professional development course for NYU's online learning management software called NYU iLearn, which is only available to students, staff, and faculty. The course focuses on mental health, but is designed to educate faculty & staff so that they can be better equipped to help students with their mental health.",
+      "Main Image": "main.jpg",
+      "Supplementary Images": "",
+      "Theme and keywords":
+        "Mental Health, Wellness, NYU, Students, Digital Mental Health Interventions, Professional Development, Online Learning Modules",
+      "Profile photo.":
+        "https://drive.google.com/open?id=1e0OXWMLJwdqZCKPtP_c4Bq_bIKN2uyP-",
+      Instagram: "_falgunivyas_/",
+      "Link to any video content":
+        "https://www.youtube.com/channel/UC5F35UcMh56hvtOIknuqvcQ",
+      Twitter: "",
+    },
   ],
+
 };
