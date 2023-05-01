@@ -31,7 +31,7 @@
   /* --gradientColorA: rgba(235, 196, 214, 1);
   --gradientColorB: rgba(255, 244, 191, 1); */
   --gradientColorA: #F1DAFF;
-  --gradientColorB: #F1DAFF;
+  --gradientColorB: #f2e4fa;
   --foregroundColor: #59485F;
   /* --foregroundColor: #3c4f96; */
   /* --hoverColor: #57068c; */
@@ -78,6 +78,8 @@ hr {
   border: 0;
   border-bottom: 2px dashed var(--gradientColorA);
   border-color: #a15db87d;
+  padding-top: 4em;
+ margin-bottom: 4em;
 }
 
 body {
