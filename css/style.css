@@ -30,13 +30,12 @@
 :root {
   /* --gradientColorA: rgba(235, 196, 214, 1);
   --gradientColorB: rgba(255, 244, 191, 1); */
-  --gradientColorA: #000000;
-  --gradientColorB: #000000;
-  --foregroundColor: #f3f3f3;
+  --gradientColorA: #F1DAFF;
+  --gradientColorB: #F1DAFF;
+  --foregroundColor: #59485F;
   /* --foregroundColor: #3c4f96; */
   /* --hoverColor: #57068c; */
-  --hoverColor: #111111;
-  --headerFont: 'Gotham Book';
+
 
   --headerWeight: 140;
   /* --header3Weight: 140; */
@@ -70,14 +69,15 @@ html {
 }
 
 a {
-  color: var(--foregroundColor);
+  color: #A15DB8;
   /* color: var(--gradientColorB); */
 }
 
 
 hr {
   border: 0;
-  border-bottom: 1px solid var(--gradientColorA);
+  border-bottom: 2px dashed var(--gradientColorA);
+  border-color: #a15db87d;
 }
 
 body {
@@ -102,6 +102,7 @@ body {
   height: 100%;
 }
 
+
 header {
   color: #fff;
   display: flex;
@@ -115,6 +116,8 @@ header {
 
 h1 {
   font-family: var(--bodyFont);
+  font-size: 2rem;
+  font-weight: 500;
 }
 
 
@@ -122,14 +125,14 @@ h1 {
 
 h2 {
   font-family: var(--bodyFont);
-  font-size: medium;
+  font-size: large;
   font-weight: 60;
 
 }
 
 h3 {
   font-family: var(--bodyFont);
-  /* font-size: large; */
+  font-size: medium;
   /* font-weight: var(--header3Weight) */
 }
 
@@ -181,8 +184,8 @@ header>h1>a:visited {
 }
 
 a:hover {
-  color: #f0f0f0;
-  background-color: var(--hoverColor);
+  color: #59485F;
+  background-color:#FFF6A6;
 }
 
 header a:hover {
